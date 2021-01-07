@@ -26,7 +26,7 @@ dependencies:
   flutter_typeahead: ^1.8.8
   image_picker: ^0.6.7+14
   image_picker_for_web: ^0.1.0+2
-  intl: ^0.16.1
+  intl: 0.17.0-nullsafety.2
   phone_number: ^0.8.1
   rating_bar: ^0.2.0
   signature: ^3.2.0
